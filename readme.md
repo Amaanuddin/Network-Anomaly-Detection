@@ -75,9 +75,9 @@ Classification metrics such as **accuracy**, **precision**, **recall**, and **F1
 
 ## IMPORTANT LINKS
 1. [Network Anomaly Detection Project - GitHub](https://github.com/Amaanuddin/Network-Anomaly-Detection)
-2. [LinkedIn Profile (Sainadh Bahadursha)](https://www.linkedin.com/in/amaanuddin/)
+2. [LinkedIn Profile (Amaanuddin)](https://www.linkedin.com/in/amaanuddin/)
 3. [Tableau Dashboards](https://public.tableau.com/app/profile/mohammed.amaanuddin.parvez/viz/NETWORKANOMALYDETECTION/NetworkConnectionMetricsDashboard)
 4. [Data Science Portfolio](https://www.datascienceportfol.io/amaanuddinparvez)
 5. [Project Video Presentation]()
-6. [Project Medium Blog]()
-7. [Streamlit app link]() (App may go to sleep)
+6. [Project Medium Blog](https://medium.com/@amaanuddinparvez/network-anomaly-detection-using-machine-learning-a-complete-guide-39165c04e373)
+7. [Streamlit app link](https://network-anomaly-detection.streamlit.app/) (App may go to sleep)
