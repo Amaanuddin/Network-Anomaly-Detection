@@ -1,0 +1,3 @@
+Model,bal_type,Training_Time,Testing_Time,Tuning_Time
+Simple_Logistic_Regression_on_Imbalanced_Dataset,Imbalanced,3.5733838081359863,0.04253578186035156,0
+Simple_Logistic_Regresssion_on_balanced_Dataset,Balanced,3.8235878944396973,0.07687687873840332,0

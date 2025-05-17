@@ -1,0 +1,5 @@
+Model,bal_type,Training_Time,Testing_Time,Tuning_Time
+Tuned_Adaboost_on_Imbalanced_Dataset,Imbalanced,190.1937186717987,7.560516119003296,795.1099212169647
+Tuned_Adaboost_on_Balanced_Dataset,Balanced,779.4589154720306,11.928602457046509,2821.958587169647
+Tuned_Light_GBM_on_Imbalanced_Dataset,Imbalanced,9.740855693817139,3.1567609310150146,230.33011984825134
+Tuned_Light_GBM_on_Balanced_Dataset,Balanced,29.386531114578247,9.486481666564941,894.554042339325
